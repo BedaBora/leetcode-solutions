@@ -9,8 +9,8 @@ This repository contains my personal solutions to various LeetCode problems. I u
 ## 📈 Progress Tracker
 | Category | Solved | Goal |
 |---|---|---|
-| Easy     |   3    | 100  |
-| Medium   |   0    | 200  |
+| Easy     |   4    | 100  |
+| Medium   |   2    | 200  |
 | Hard     |   0    |  50  |
 
 ## 📁 Repository Structure
@@ -31,3 +31,6 @@ Eg:
 | 88 | Merge Sorted Array | Easy | [Link](https://leetcode.com/problems/merge-sorted-array/description/) | O(m+n) | O(1) |
 | 27 | Remove Element | Easy | [Link](https://leetcode.com/problems/remove-element/description/) | O(n) | O(1) |
 | 26 | Remove Duplicates from Sorted Array | Easy | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | O(n) | O(1) |
+| 169 | Majority Element | Easy | [Link](https://leetcode.com/problems/majority-element/description/) | O(n) | O(1) |
+| 80 | Remove Duplicates from Sorted Array II | Medium | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/) | O(n) | O(1) |
+| 189 | Rotate Array | Medium | [Link](https://leetcode.com/problems/rotate-array/description/) | O(n) | O(1) |
