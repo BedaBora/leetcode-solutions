@@ -37,3 +37,7 @@ Eg:
 | 121 | Best Time to Buy and Sell Stock | Easy | [Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | O(n) | O(1) |
 | 122 | Best Time to Buy and Sell Stock II | Medium | [Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/description/) | O(n) | O(1) |
 | 55 | Jump Game | Medium | [Link](https://leetcode.com/problems/jump-game/description/) | O(n) | O(1) |
+| 45 | Jump Game II | Medium | [Link](https://leetcode.com/problems/jump-game-ii/description/) | O(n) | O(1) |
+| 274 | H-Index | Medium | [Link](https://leetcode.com/problems/h-index/description/) | O(nlogn + n) | O(1) |
+| 380 | Insert Delete GetRandom O(1) | Medium | [Link](https://leetcode.com/problems/insert-delete-getrandom-o1/description/) | O(1) | O(n) |
+
