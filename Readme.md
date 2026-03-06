@@ -11,7 +11,7 @@ This repository contains my personal solutions to various LeetCode problems. I u
 |---|---|---|
 | Easy     |   5    | 100  |
 | Medium   |  6    | 200  |
-| Hard     |   0    |  50  |
+| Hard     |   2    |  50  |
 
 ## 📁 Repository Structure
 
@@ -42,3 +42,5 @@ Eg:
 | 380 | Insert Delete GetRandom O(1) | Medium | [Link](https://leetcode.com/problems/insert-delete-getrandom-o1/description/) | O(1) | O(n) |
 | 238 | Product of Array Except Self | Medium | [Link](https://leetcode.com/problems/product-of-array-except-self/description/) | O(n) | O(1) |
 | 134 | Gas Station | Medium | [Link](https://leetcode.com/problems/gas-station/description/) | O(n) | O(1) |
+| 135 | Candy | Hard | [Link](https://leetcode.com/problems/candy/description/) | O(n) | O(1) |
+| 42 | Trapping Rain Water | Hard | [Link](https://leetcode.com/problems/trapping-rain-water/description/) | O(n) | O(1) |
