@@ -9,8 +9,8 @@ This repository contains my personal solutions to various LeetCode problems. I u
 ## 📈 Progress Tracker
 | Category | Solved | Goal |
 |---|---|---|
-| Easy     |   5    | 100  |
-| Medium   |  6    | 200  |
+| Easy     |   7    | 100  |
+| Medium   |  7    | 200  |
 | Hard     |   2    |  50  |
 
 ## 📁 Repository Structure
@@ -44,3 +44,6 @@ Eg:
 | 134 | Gas Station | Medium | [Link](https://leetcode.com/problems/gas-station/description/) | O(n) | O(1) |
 | 135 | Candy | Hard | [Link](https://leetcode.com/problems/candy/description/) | O(n) | O(1) |
 | 42 | Trapping Rain Water | Hard | [Link](https://leetcode.com/problems/trapping-rain-water/description/) | O(n) | O(1) |
+| 13 | Roman to Integer | Easy | [Link](https://leetcode.com/problems/roman-to-integer/description/) | O(n) | O(1) |
+| 12 | Integer to Roman | Medium | [Link](https://leetcode.com/problems/integer-to-roman/description/) | O(n) | O(1) |
+| 58 | Length of Last Word | Easy | [Link](https://leetcode.com/problems/length-of-last-word/description/) | O(n) | O(1) |
